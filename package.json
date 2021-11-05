@@ -1,0 +1,20 @@
+{
+  "name": "resp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happai/kuaiding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happai/kuaiding/issues"
+  },
+  "homepage": "https://github.com/happai/kuaiding#readme"
+}
